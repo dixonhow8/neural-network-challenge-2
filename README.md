@@ -46,7 +46,7 @@ Open the starter file in Google Colab and complete the following steps, which ar
 - Evaluate the model with the testing data.
 - Print the accuracy for both department and attrition.
 
-### Part 3: Summary with answered questions
+### Part 3: Answered Questions
 
 1. **Is accuracy the best metric to use on this data? Why or why not?**
    - Accuracy may not be the best metric due to potential class imbalances. Other metrics like F1-score or precision/recall might provide better insights into model performance.
